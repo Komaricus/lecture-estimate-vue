@@ -1,4 +1,8 @@
-# lecture-estimate
+# lecture-estimate-vue
+
+Vue.js app for student assessment at HSE
+
+[Backend Repo](https://github.com/Komaricus/lecture-estimate-backend)
 
 ## Project setup
 ```
@@ -9,21 +13,3 @@ yarn install
 ```
 yarn run serve
 ```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
